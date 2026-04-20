@@ -1,0 +1,16 @@
+date,product,sales_qty,revenue,inventory_level,supplier,lead_time
+2023-01-01,Whiskey,20,2000,150,Supplier_A,5
+2023-01-02,Vodka,15,1200,130,Supplier_B,7
+2023-01-03,Beer,50,2500,300,Supplier_C,3
+2023-01-04,Wine,30,1800,200,Supplier_A,5
+2023-01-05,Rum,25,1500,180,Supplier_B,6
+2023-01-06,Whiskey,22,2200,140,Supplier_A,5
+2023-01-07,Vodka,18,1400,120,Supplier_B,7
+2023-01-08,Beer,60,3000,280,Supplier_C,3
+2023-01-09,Wine,35,2100,190,Supplier_A,5
+2023-01-10,Rum,28,1600,170,Supplier_B,6
+2023-01-11,Whiskey,24,2400,130,Supplier_A,5
+2023-01-12,Vodka,20,1500,110,Supplier_B,7
+2023-01-13,Beer,55,2700,260,Supplier_C,3
+2023-01-14,Wine,32,1900,180,Supplier_A,5
+2023-01-15,Rum,30,1700,160,Supplier_B,6
